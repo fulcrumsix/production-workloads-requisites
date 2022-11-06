@@ -1,4 +1,4 @@
-# Prouction Workload Prerequisites
+# Production Workload Prerequisites
 
 Assumption: the assumption is that you already have an AWS account 
 
