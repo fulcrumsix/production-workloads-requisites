@@ -1,8 +1,9 @@
 # Production Workload Prerequisites
 
-Assumption: the assumption is that you already have an AWS account 
+NOTE: The aim of this course is to help you build real-world production grade products you can add to your portfolio and resume. 
+Therefore you are required to have a minimum of 3-months experience using AWS services. 
 
-These are the prerquite tools we need to run our production workloads
+These are the prerequisite tools we need to install:
 
 1. AWS CLI
    https://awscli.amazonaws.com/AWSCLIV2.msi
@@ -16,7 +17,4 @@ These are the prerquite tools we need to run our production workloads
 
 4. VSCode
    https://code.visualstudio.com/download
-
-5. AWS Account 
-   https://portal.aws.amazon.com/billing/signup#/start/email
 
