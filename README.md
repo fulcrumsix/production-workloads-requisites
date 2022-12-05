@@ -17,3 +17,9 @@ These are the prerequisite tools we need to install:
 4. VSCode
    https://code.visualstudio.com/download
 
+
+## Configure git credentials
+
+`git config --global user.name "your username"`
+
+`git config --global user.password "your password"`
