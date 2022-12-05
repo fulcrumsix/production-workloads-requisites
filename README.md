@@ -5,15 +5,14 @@ Therefore you are required to have a minimum of 3-months experience using AWS se
 
 These are the prerequisite tools we need to install:
 
-1. AWS CLI
-   https://awscli.amazonaws.com/AWSCLIV2.msi
+1. Git
+   https://git-scm.com/downloads
 
 2. Github
    https://github.com/signup
-
-3. Git
-   https://git-scm.com/downloads
-
+  
+3. AWS CLI
+   https://awscli.amazonaws.com/AWSCLIV2.msi
 
 4. VSCode
    https://code.visualstudio.com/download
